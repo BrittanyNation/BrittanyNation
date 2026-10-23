@@ -13,6 +13,7 @@ I design and build clean, modern websites and interfaces, with a love for color,
 - **[PureNest Cleaning — Multi-Page Business Website](https://brittanynation.github.io/multipage-business-site/)** — A complete 5-page business website with services, about, reviews, and contact pages.
 - **[Landing Page Trio](https://brittanynation.github.io/landing-page-trio/)** — Three landing pages in three different styles: a SaaS product, a local service, and a festival event page.
 - **[Lumen Studio — Wellness Dashboard UI Concept](https://brittanynation.github.io/wellness-dashboard-ui/)** — A dashboard UI concept for a boutique yoga & pilates studio: overview, class schedule, and members views (Deep Plum & Coral).
+- **[Atlas Bike Tours — Booking Flow UI Concept](https://brittanynation.github.io/booking-flow-ui/)** — A booking and checkout flow UI concept for a fictional guided bike tour company: choose a tour, date & bikes, checkout, and confirmation (Midnight Navy, Sky & Signal Yellow).
 
 ## More Projects
 
