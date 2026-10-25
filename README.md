@@ -15,6 +15,7 @@ I design and build clean, modern websites and interfaces, with a love for color,
 - **[Lumen Studio — Wellness Dashboard UI Concept](https://brittanynation.github.io/wellness-dashboard-ui/)** — A dashboard UI concept for a boutique yoga & pilates studio: overview, class schedule, and members views (Deep Plum & Coral).
 - **[Atlas Bike Tours — Booking Flow UI Concept](https://brittanynation.github.io/booking-flow-ui/)** — A booking and checkout flow UI concept for a fictional guided bike tour company: choose a tour, date & bikes, checkout, and confirmation (Midnight Navy, Sky & Signal Yellow).
 - **[Harbor & Hope Community Kitchen — Nonprofit Site UI Concept](https://brittanynation.github.io/nonprofit-community-site/)** — A nonprofit website UI concept for a fictional community kitchen & food pantry: programs & impact, and donate/volunteer paths with amounts tied to outcomes (Forest, Ochre & Warm Sand).
+- **[Solstice Makers Fair — Event Website UI Concept](https://brittanynation.github.io/makers-fair-event-site/)** — An event website UI concept for a fictional weekend makers & craft fair: featured makers with stall numbers, a two-day schedule & workshops, and ticket passes with a travelling order summary (Berry, Raspberry & Periwinkle).
 
 ## More Projects
 
