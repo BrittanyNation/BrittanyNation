@@ -18,6 +18,7 @@ I design and build clean, modern websites and interfaces, with a love for color,
 - **[Solstice Makers Fair — Event Website UI Concept](https://brittanynation.github.io/makers-fair-event-site/)** — An event website UI concept for a fictional weekend makers & craft fair: featured makers with stall numbers, a two-day schedule & workshops, and ticket passes with a travelling order summary (Berry, Raspberry & Periwinkle).
 - **[Willow Creek Pet Studio — Multi-Page Business Site UI Concept](https://brittanynation.github.io/pet-studio-site/)** — A multi-page business website UI concept for a fictional pet grooming, daycare & boarding studio: services with clear pricing, a first-visit checklist, and a calm booking flow with a travelling summary (Deep Teal, Mint & Butter).
 - **[Ember & Oak Coffee Roasters — Landing Page UI Concept](https://brittanynation.github.io/coffee-roastery-landing/)** — A landing page UI concept for a fictional small-batch coffee roastery: three blends with plain tasting notes, a blend comparison table with honest pricing, and a subscription flow with a travelling summary (Espresso, Ember & Caramel).
+- **[Fernway — Plant Care App UI Concept](https://brittanynation.github.io/fernway-plant-app-ui/)** — A mobile app UI concept for a fictional plant care companion: a finishable today list, plant health in plain words, and a design system where lemon means due today (Aubergine, Iris & Lemon).
 
 ## More Projects
 
