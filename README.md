@@ -19,6 +19,7 @@ I design and build clean, modern websites and interfaces, with a love for color,
 - **[Willow Creek Pet Studio — Multi-Page Business Site UI Concept](https://brittanynation.github.io/pet-studio-site/)** — A multi-page business website UI concept for a fictional pet grooming, daycare & boarding studio: services with clear pricing, a first-visit checklist, and a calm booking flow with a travelling summary (Deep Teal, Mint & Butter).
 - **[Ember & Oak Coffee Roasters — Landing Page UI Concept](https://brittanynation.github.io/coffee-roastery-landing/)** — A landing page UI concept for a fictional small-batch coffee roastery: three blends with plain tasting notes, a blend comparison table with honest pricing, and a subscription flow with a travelling summary (Espresso, Ember & Caramel).
 - **[Fernway — Plant Care App UI Concept](https://brittanynation.github.io/fernway-plant-app-ui/)** — A mobile app UI concept for a fictional plant care companion: a finishable today list, plant health in plain words, and a design system where lemon means due today (Aubergine, Iris & Lemon).
+- **[Arlo Clay Studio — E-Commerce Product Page Set](https://brittanynation.github.io/arlo-clay-shop/)** — An e-commerce product page set for a fictional handmade ceramics studio: a shop page with size, glaze, and price on every card, a product detail page with glaze options and honest stock, and a cart & checkout page with a $74 total shown line by line (Cobalt Glaze, Peach Clay & Porcelain).
 
 ## More Projects
 
