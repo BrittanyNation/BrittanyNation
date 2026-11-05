@@ -28,6 +28,7 @@ I design and build clean, modern websites and interfaces, with a love for color,
 - **[Haven Desk Collective — Coworking Loft with Authentication](https://brittanynation.github.io/haven-desk-collective/)** — A fully functional coworking website for a fictional loft and the fourth course-track portfolio project (Full-Stack Bootcamp skill: authentication flow): browsable desks, pods, meeting rooms and studios with search, filters and saved spaces, real sign-up and sign-in with scrypt-hashed passwords and server sessions, members-only booking with plan savings and a rsonal dashboard, plus a real Express + SQLite back end in the repo (auth routes, protected booking routes, owner-only cancellation) that the same pages use when run locally (Indigo, Studio Violet & Mint).
  - **Saffron & Sage Kitchen** — a weekly meal-box app built with React components: filter 12 recipes by diet, build a box that remembers your picks, and check out. [Live demo](https://brittanynation.github.io/saffron-sage-kitchen/) · [Code](https://github.com/BrittanyNation/saffron-sage-kitchen)
 
+- **[Fieldnotes Studio](https://brittanynation.github.io/fieldnotes-studio/)** — React agency site with portfolio filters, persistent shortlist, live estimator and validated enquiry form.
 ## More Projects
 
 - **[Deal Analyzer](https://brittanynation.github.io/deal-analyzer/)** — Real-estate deal analysis tool (Vite + React).
