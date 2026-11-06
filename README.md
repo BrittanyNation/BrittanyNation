@@ -29,6 +29,8 @@ I design and build clean, modern websites and interfaces, with a love for color,
  - **Saffron & Sage Kitchen** — a weekly meal-box app built with React components: filter 12 recipes by diet, build a box that remembers your picks, and check out. [Live demo](https://brittanynation.github.io/saffron-sage-kitchen/) · [Code](https://github.com/BrittanyNation/saffron-sage-kitchen)
 
 - **[Fieldnotes Studio](https://brittanynation.github.io/fieldnotes-studio/)** — React agency site with portfolio filters, persistent shortlist, live estimator and validated enquiry form.
+- **[Copper Groove Records](https://brittanynation.github.io/copper-groove-records/)** — A fully functional vinyl record store with genre filters, condition pricing, persistent crate and validated checkout. ([code](https://github.com/BrittanyNation/copper-groove-records))
+
 ## More Projects
 
 - **[Deal Analyzer](https://brittanynation.github.io/deal-analyzer/)** — Real-estate deal analysis tool (Vite + React).
