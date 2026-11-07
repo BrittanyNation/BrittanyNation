@@ -30,6 +30,7 @@ I design and build clean, modern websites and interfaces, with a love for color,
 
 - **[Fieldnotes Studio](https://brittanynation.github.io/fieldnotes-studio/)** — React agency site with portfolio filters, persistent shortlist, live estimator and validated enquiry form.
 - **[Copper Groove Records](https://brittanynation.github.io/copper-groove-records/)** — A fully functional vinyl record store with genre filters, condition pricing, persistent crate and validated checkout. ([code](https://github.com/BrittanyNation/copper-groove-records))
+- **[Bloom & Branch Florist](https://brittanynation.github.io/bloom-branch-florist/)** — A fully functional florist shop with occasion filters, size pricing, persistent basket and validated checkout. ([code](https://github.com/BrittanyNation/bloom-branch-florist))
 
 ## More Projects
 
