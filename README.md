@@ -32,6 +32,7 @@ I design and build clean, modern websites and interfaces, with a love for color,
 - **[Copper Groove Records](https://brittanynation.github.io/copper-groove-records/)** — A fully functional vinyl record store with genre filters, condition pricing, persistent crate and validated checkout. ([code](https://github.com/BrittanyNation/copper-groove-records))
 - **[Bloom & Branch Florist](https://brittanynation.github.io/bloom-branch-florist/)** — A fully functional florist shop with occasion filters, size pricing, persistent basket and validated checkout. ([code](https://github.com/BrittanyNation/bloom-branch-florist))
 - **[Emberwick Candle Co.](https://brittanynation.github.io/emberwick-candle-co/)** — A fully functional candle shop with scent-family filters, size pricing, persistent basket and validated checkout. ([code](https://github.com/BrittanyNation/emberwick-candle-co))
+- **[Paprika & Pine Spice Co.](https://brittanynation.github.io/paprika-pine-spice/)** — A fully functional spice shop with spice-family filters, jar-size pricing, persistent basket and validated checkout. ([code](https://github.com/BrittanyNation/paprika-pine-spice))
 
 ## More Projects
 
