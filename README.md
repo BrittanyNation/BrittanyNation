@@ -33,7 +33,8 @@ I design and build clean, modern websites and interfaces, with a love for color,
 - **[Bloom & Branch Florist](https://brittanynation.github.io/bloom-branch-florist/)** — A fully functional florist shop with occasion filters, size pricing, persistent basket and validated checkout. ([code](https://github.com/BrittanyNation/bloom-branch-florist))
 - **[Emberwick Candle Co.](https://brittanynation.github.io/emberwick-candle-co/)** — A fully functional candle shop with scent-family filters, size pricing, persistent basket and validated checkout. ([code](https://github.com/BrittanyNation/emberwick-candle-co))
 - **[Paprika & Pine Spice Co.](https://brittanynation.github.io/paprika-pine-spice/)** — A fully functional spice shop with spice-family filters, jar-size pricing, persistent basket and validated checkout. ([code](https://github.com/BrittanyNation/paprika-pine-spice))
-
+- **[Juniper & Leaf Tea Co.](https://brittanynation.github.io/juniper-leaf-tea/)**  — A fully functional tea shop with tea-family filters, tin-size pricing, persistent basket and validated checkout. Roles: Front-End Designer, Web Designer, Website Designer. ([code](https://github.com/BrittanyNation/juniper-leaf-tea))
+  
 ## More Projects
 
 - **[Deal Analyzer](https://brittanynation.github.io/deal-analyzer/)** — Real-estate deal analysis tool (Vite + React).
