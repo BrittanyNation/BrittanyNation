@@ -35,6 +35,7 @@ I design and build clean, modern websites and interfaces, with a love for color,
 - **[Paprika & Pine Spice Co.](https://brittanynation.github.io/paprika-pine-spice/)** — A fully functional spice shop with spice-family filters, jar-size pricing, persistent basket and validated checkout. ([code](https://github.com/BrittanyNation/paprika-pine-spice))
 - **[Juniper & Leaf Tea Co.](https://brittanynation.github.io/juniper-leaf-tea/)**  — A fully functional tea shop with tea-family filters, tin-size pricing, persistent basket and validated checkout. Roles: Front-End Designer, Web Designer, Website Designer. ([code](https://github.com/BrittanyNation/juniper-leaf-tea))
 -  **[Clearline Support](https://brittanynation.github.io/clearline-support/)** — A support center and ticket desk for a fictional invoicing tool, supporting customer success, patient support, front-end, copywriting and technica author applications. ([code](https://github.com/BrittanyNation/clearline-support))
+-  **[Planora](https://brittanynation.github.io/planora/)** — A brand campaign site for a fictional visual planning tool with a working board demo, pricing toggle, and demo request form, supporting Brand Designer, Junior Copywriter, and Front End Developer roles. ([code](https://github.com/BrittanyNation/planora))
   
 ## More Projects
 
